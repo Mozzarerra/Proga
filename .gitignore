@@ -1,0 +1,9 @@
+.vs
+bin
+Database
+obj
+AdditionTable.cs
+Anketa.cs
+Launcher.cs
+proekt.csproj
+proekt.sln
